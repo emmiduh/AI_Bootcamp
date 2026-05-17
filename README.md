@@ -1,6 +1,6 @@
-# AI_BC
+# AI_Bootcamp
 
-This folder contains a set of small machine learning practice scripts built with Python and scikit-learn.
+This repository contains a set of Python machine learning practice scripts built with scikit-learn, pandas, and related data science libraries.
 
 ## Contents
 
@@ -14,28 +14,28 @@ This folder contains a set of small machine learning practice scripts built with
 - `day8_ex.py` - Iris ensemble classification using voting with logistic regression, decision tree, and k-NN.
 - `bike_sharing_daily.csv` - Dataset used by the bike sharing exercise.
 
-## Requirements
+## Setup
 
-The scripts use common data science libraries, including:
+1. Create and activate a virtual environment if you want to keep dependencies isolated.
+2. Install the Python packages:
 
-- `pandas`
-- `numpy`
-- `matplotlib`
-- `seaborn`
-- `scikit-learn`
+```bash
+pip install -r requirements.txt
+```
+
+## Run
+
+Run any script directly with Python:
+
+```bash
+python day8_ex.py
+```
+
+Replace `day8_ex.py` with the file you want to execute.
 
 ## Notes
 
 - Some scripts download datasets from the internet when they run.
 - `day4_ex.py` and `day5_ex.py` include plots or commented visualization code.
 - `day5_ex.py` is currently fully commented out.
-
-## Run
-
-Run any script with:
-
-```bash
-python day8_ex.py
-```
-
-Replace `day8_ex.py` with the script you want to execute.
+- Several scripts print model metrics directly to the console.
