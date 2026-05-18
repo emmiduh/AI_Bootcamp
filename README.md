@@ -12,6 +12,10 @@ This repository contains a set of Python machine learning practice scripts built
 - `day6_ex2.py` - California housing regression using linear regression and common error metrics.
 - `day7_ex.py` - Titanic preprocessing with scaling and encoding, followed by cross-validation and random forest grid search.
 - `day8_ex.py` - Iris ensemble classification using voting with logistic regression, decision tree, and k-NN.
+- `day9_ex.py` - Breast cancer classification with random forest and grid search hyperparameter tuning.
+- `day10_ex.py` - Breast cancer classification with gradient boosting and grid search hyperparameter tuning.
+- `day11_ex.py` - Breast cancer classification with XGBoost and binary classification metrics.
+- `day12_ex.py` - Titanic survival prediction with LightGBM and CatBoost ensemble models.
 - `bike_sharing_daily.csv` - Dataset used by the bike sharing exercise.
 
 ## Setup
