@@ -16,7 +16,10 @@ This repository contains a set of Python machine learning practice scripts built
 - `day10_ex.py` - Breast cancer classification with gradient boosting and grid search hyperparameter tuning.
 - `day11_ex.py` - Breast cancer classification with XGBoost and binary classification metrics.
 - `day12_ex.py` - Titanic survival prediction with LightGBM and CatBoost ensemble models.
+- `day13_ex.py` - Credit card fraud detection with random forest and SMOTE for imbalanced classification.
+- `day14_ex.py` - Telco customer churn prediction with multiple ensemble models and SMOTE resampling.
 - `bike_sharing_daily.csv` - Dataset used by the bike sharing exercise.
+- `Telco Customer Churn.csv` - Dataset used by the customer churn prediction exercise.
 
 ## Setup
 
