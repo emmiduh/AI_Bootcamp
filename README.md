@@ -18,6 +18,18 @@ This repository contains a set of Python machine learning practice scripts built
 - `day12_ex.py` - Titanic survival prediction with LightGBM and CatBoost ensemble models.
 - `day13_ex.py` - Credit card fraud detection with random forest and SMOTE for imbalanced classification.
 - `day14_ex.py` - Telco customer churn prediction with multiple ensemble models and SMOTE resampling.
+- `day15_ex.py` - Classification example with k-NN on sample data.
+- `day16_ex.py` - Regression example with linear regression.
+- `day17_ex.py` - Binary classification example with logistic regression.
+- `day18_ex.py` - Regression example with polynomial features.
+- `day19_ex.py` - Regression with regularization (Ridge and Lasso).
+- `day20_ex.py` - Convolutional neural network on MNIST dataset.
+- `day21_ex.py` - Convolutional neural network on CIFAR-10 dataset using TensorFlow/Keras.
+- `kNNeighbours.py` - Standalone k-Nearest Neighbors classifier implementation with confusion matrix.
+- `linearRegression.py` - Standalone linear regression implementation with MSE metrics.
+- `logisticRegression.py` - Standalone logistic regression implementation for binary classification.
+- `polynomialRegression.py` - Standalone polynomial regression implementation.
+- `ridgeandlassoregression.py` - Standalone Ridge and Lasso regression implementations.
 - `bike_sharing_daily.csv` - Dataset used by the bike sharing exercise.
 - `Telco Customer Churn.csv` - Dataset used by the customer churn prediction exercise.
 

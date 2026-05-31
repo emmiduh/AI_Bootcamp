@@ -23,6 +23,8 @@ seaborn==0.13.2
 six==1.17.0
 sklearn-compat==0.1.5
 sns==0.1
+tensorboard==2.18.0
+tensorflow==2.18.0
 threadpoolctl==3.6.0
 tzdata==2026.2
 xgboost==3.2.0
