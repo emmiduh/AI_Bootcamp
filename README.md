@@ -30,6 +30,20 @@ This repository contains a set of Python machine learning practice scripts built
 - `logisticRegression.py` - Standalone logistic regression implementation for binary classification.
 - `polynomialRegression.py` - Standalone polynomial regression implementation.
 - `ridgeandlassoregression.py` - Standalone Ridge and Lasso regression implementations.
+- `autoencoders.py` - Simple autoencoder example using TensorFlow/Keras.
+- `dbscan.py` - Density-based clustering example with DBSCAN.
+- `decisionTrees.py` - Decision tree classification example.
+- `gaussianMixtureModels.py` - Gaussian mixture model clustering example.
+- `gradientBoosting.py` - Gradient boosting classification example.
+- `hierarichicalClustering.py` - Hierarchical clustering example with a dendrogram.
+- `kmeansClustering.py` - K-means clustering example.
+- `naiveBayes.py` - Naive Bayes classification example.
+- `principalComponentAnanlysis.py` - Principal component analysis example.
+- `qLearning.py` - Q-learning example on a small grid-world environment.
+- `randomForest.py` - Random forest classification example.
+- `selfTrainign.py` - Self-training example with semi-supervised learning.
+- `supportVectorMachines.py` - Support vector machine classification example.
+- `t-SNE.py` - t-SNE dimensionality reduction example.
 - `bike_sharing_daily.csv` - Dataset used by the bike sharing exercise.
 - `Telco Customer Churn.csv` - Dataset used by the customer churn prediction exercise.
 
