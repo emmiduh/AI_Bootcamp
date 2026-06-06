@@ -44,6 +44,14 @@ This repository contains a set of Python machine learning practice scripts built
 - `selfTrainign.py` - Self-training example with semi-supervised learning.
 - `supportVectorMachines.py` - Support vector machine classification example.
 - `t-SNE.py` - t-SNE dimensionality reduction example.
+- `DQN.py` - Deep Q-learning example for CartPole using PyTorch and Gymnasium.
+- `cnns.py` - Convolutional neural network example on MNIST using TensorFlow/Keras.
+- `isolationForest.py` - Anomaly detection example with Isolation Forest.
+- `lstm.py` - LSTM sentiment classification example on IMDB reviews.
+- `oneClassSVM.py` - Anomaly detection example with One-Class SVM.
+- `policyGradientMethods.py` - Policy gradient reinforcement learning example for CartPole.
+- `rnns.py` - Simple RNN sentiment classification example on IMDB reviews.
+- `transformers.py` - Transformer-based sentiment classification example on IMDB reviews.
 - `bike_sharing_daily.csv` - Dataset used by the bike sharing exercise.
 - `Telco Customer Churn.csv` - Dataset used by the customer churn prediction exercise.
 
