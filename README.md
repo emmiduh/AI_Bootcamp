@@ -52,6 +52,16 @@ This repository contains a set of Python machine learning practice scripts built
 - `policyGradientMethods.py` - Policy gradient reinforcement learning example for CartPole.
 - `rnns.py` - Simple RNN sentiment classification example on IMDB reviews.
 - `transformers.py` - Transformer-based sentiment classification example on IMDB reviews.
+
+### Jupyter Notebooks
+
+- `buildingModelsWithKeras.ipynb` - Comprehensive guide to building neural network models with Keras and TensorFlow.
+- `cnnsWithTensorflow.ipynb` - Convolutional neural networks with TensorFlow/Keras for image classification.
+- `trainingAndEvaluatingModels.ipynb` - Training strategies and evaluation techniques for deep learning models.
+- `transferLearningWithPretrainedCNNs.ipynb` - Transfer learning using pretrained convolutional neural networks.
+
+### Datasets
+
 - `bike_sharing_daily.csv` - Dataset used by the bike sharing exercise.
 - `Telco Customer Churn.csv` - Dataset used by the customer churn prediction exercise.
 
