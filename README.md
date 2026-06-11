@@ -59,11 +59,22 @@ This repository contains a set of Python machine learning practice scripts built
 - `cnnsWithTensorflow.ipynb` - Convolutional neural networks with TensorFlow/Keras for image classification.
 - `trainingAndEvaluatingModels.ipynb` - Training strategies and evaluation techniques for deep learning models.
 - `transferLearningWithPretrainedCNNs.ipynb` - Transfer learning using pretrained convolutional neural networks.
+- `buildingRNNsWithTensorflor.ipynb` - Recurrent neural network examples and sequence modeling experiments.
+- `implementingAChatbot.ipynb` - Chatbot implementation notebook using sequence-to-sequence modeling.
+- `imageRecognitionSystem.ipynb` - Image recognition workflow notebook for computer vision experiments.
+- `sentimentAnalysisModel.ipynb` - Sentiment analysis workflow notebook for text classification.
 
 ### Datasets
 
 - `bike_sharing_daily.csv` - Dataset used by the bike sharing exercise.
 - `Telco Customer Churn.csv` - Dataset used by the customer churn prediction exercise.
+
+### Saved Models
+
+- `chatbot_model.keras` - Saved chatbot model artifact.
+- `chatbot_seq2seq_daily_dialog.keras` - Saved sequence-to-sequence chatbot model artifact.
+- `mnist_digit_recognition_model.keras` - Saved MNIST digit recognition model artifact.
+- `sentiment_analysis_model.keras` - Saved sentiment analysis model artifact.
 
 ## Setup
 
